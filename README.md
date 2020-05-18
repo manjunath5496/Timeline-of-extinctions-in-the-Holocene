@@ -1,4 +1,4 @@
-<h2>Timeline of extinctions in the Holocene </h2>
+<h2> Timeline of extinctions in the Holocene</h2>
 
 <h2><span id="10th_millennium_BCE" class="mw-headline">10th millennium&nbsp;<em><a title="Common Era" href="https://en.wikipedia.org/wiki/Common_Era">BCE</a></em></span></h2>
 <ul>
@@ -72,7 +72,6 @@
 <li><em>c.</em>&nbsp;3010 BCE &ndash; The sloth&nbsp;<em><a class="new" title="Parocnus (page does not exist)" href="https://en.wikipedia.org/w/index.php?title=Parocnus&amp;action=edit&amp;redlink=1">Parocnus browni</a></em>&nbsp;survived in&nbsp;<a title="Cuba" href="https://en.wikipedia.org/wiki/Cuba">Cuba</a>&nbsp;until about this time.<sup id="cite_ref-Steadman2005_14-0" class="reference"></sup></li>
 </ul>
 <h2><span id="3rd_millennium_BCE" class="mw-headline">3rd millennium BCE</span></h2>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li><em>c.</em>&nbsp;2915 BCE - The canid&nbsp;<em><a title="Dusicyon" href="https://en.wikipedia.org/wiki/Dusicyon">Dusicyon avus</a></em>&nbsp;survived in Argentina until about this time.<sup id="cite_ref-Turvey_3-20" class="reference"></sup></li>
 <li><em>c.</em>&nbsp;2835 BCE &ndash; The&nbsp;<a title="Myotragus" href="https://en.wikipedia.org/wiki/Myotragus">Balearic cave goat</a>&nbsp;became extinct around this time.<sup id="cite_ref-Turvey_3-21" class="reference"></sup></li>
@@ -193,9 +192,8 @@
 <li>1800 - The last known&nbsp;<a title="Bluebuck" href="https://en.wikipedia.org/wiki/Bluebuck">bluebuck</a>&nbsp;was shot, making the species the first African antelope to be hunted to extinction by European settlers.<sup id="cite_ref-33" class="reference"></sup></li>
 <li>1825 &ndash; The&nbsp;<a class="mw-redirect" title="Mysterious starling" href="https://en.wikipedia.org/wiki/Mysterious_starling">mysterious starling</a>&nbsp;died out.<sup id="cite_ref-34" class="reference"></sup></li>
 <li>1826 - The&nbsp;<a title="Mauritius blue pigeon" href="https://en.wikipedia.org/wiki/Mauritius_blue_pigeon">Mauritius blue pigeon</a>&nbsp;becomes extinct due to excessive hunting.<sup id="cite_ref-35" class="reference"></sup></li>
-<li>1827 - The&nbsp;<a title="Tonga ground skink" href="https://en.wikipedia.org/wiki/Tonga_ground_skink">Tonga ground skink</a>&nbsp;dies out from its only home in the Tongan Islands.<sup id="cite_ref-36" class="reference"></sup></li>
+<li>1827 - The&nbsp;<a title="Tonga ground skink" href="https://en.wikipedia.org/wiki/Tonga_ground_skink">Tonga ground skink</a>&nbsp;dies out from its only home in the Tongan Islands.</li>
 </ul>
-<div class="thumb tright">&nbsp;</div>
 <ul>
 <li>1852 - The last sighting of a&nbsp;<a title="Great auk" href="https://en.wikipedia.org/wiki/Great_auk">great auk</a>&nbsp;was made off the coast of&nbsp;<a title="Newfoundland (island)" href="https://en.wikipedia.org/wiki/Newfoundland_(island)">Newfoundland</a>. The bird was driven to extinction by hunting for its fat, feathers, meat, and oil.<sup id="cite_ref-Adams_15-3" class="reference"></sup><sup id="cite_ref-37" class="reference"></sup></li>
 <li>1860 &ndash; The&nbsp;<a class="mw-redirect" title="String tree" href="https://en.wikipedia.org/wiki/String_tree">string tree</a>&nbsp;from the island of&nbsp;<a class="mw-redirect" title="St Helena" href="https://en.wikipedia.org/wiki/St_Helena">St Helena</a>&nbsp;becomes extinct because of&nbsp;<a title="Habitat destruction" href="https://en.wikipedia.org/wiki/Habitat_destruction">habitat destruction</a>.<sup id="cite_ref-38" class="reference"></sup></li>
@@ -240,10 +238,8 @@
 <li>1935 - The&nbsp;<a title="Mogollon mountain wolf" href="https://en.wikipedia.org/wiki/Mogollon_mountain_wolf">Mogollon mountain wolf</a>&nbsp;and the&nbsp;<a class="mw-redirect" title="Southern Rocky Mountains wolf" href="https://en.wikipedia.org/wiki/Southern_Rocky_Mountains_wolf">Southern Rocky Mountains wolf</a>&nbsp;were hunted to extinction.<sup id="cite_ref-wolfhowl.org_45-3" class="reference"></sup></li>
 <li>1936 &ndash; The last&nbsp;<a title="Thylacine" href="https://en.wikipedia.org/wiki/Thylacine">thylacine</a>&nbsp;died in captivity. Hunting, habitat loss, disease, and competition from domestic dogs all may have contributed to the extinction of the species.<sup id="cite_ref-thylacine_59-0" class="reference"></sup></li>
 <li>c. 1937 &ndash; The&nbsp;<a title="Bali tiger" href="https://en.wikipedia.org/wiki/Bali_tiger">Bali tiger</a>&nbsp;was last definitively seen around this time, but likely persisted into the 1940s or possibly even the early 1950s.<sup id="cite_ref-60" class="reference"></sup></li>
-<li>1939 &ndash; The&nbsp;<a title="Toolache wallaby" href="https://en.wikipedia.org/wiki/Toolache_wallaby">toolache wallaby</a>&nbsp;was last recorded.<sup id="cite_ref-Turvey_3-61" class="reference"></sup></li>
+<li>1939 &ndash; The&nbsp;<a title="Toolache wallaby" href="https://en.wikipedia.org/wiki/Toolache_wallaby">toolache wallaby</a>&nbsp;was last recorded.</li>
 </ul>
-<div class="thumb tright">&nbsp;</div>
-<div class="thumb tright">&nbsp;</div>
 <h4><span id="1940s" class="mw-headline">1940s</span></h4>
 <ul>
 <li>1940 &ndash; The&nbsp;<a title="Cascade mountain wolf" href="https://en.wikipedia.org/wiki/Cascade_mountain_wolf">Cascade mountain wolf</a>&nbsp;was hunted to extinction.<sup id="cite_ref-wolfhowl.org_45-4" class="reference"></sup></li>
